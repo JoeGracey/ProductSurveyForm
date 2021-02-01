@@ -7,3 +7,14 @@ body {
     margin: auto;
     width: 75%;
 }
+
+.form-group {
+    margin: 0 auto 1.25rem auto;
+    padding: 0.25rem;
+}
+
+.optional {
+    margin-left: 0.25rem;
+    font-size: 0.9rem;
+    color: #e4e4e4;
+}
