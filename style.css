@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(148, 148, 148);
+}
+
+.main {
+    background-color: rgb(223, 174, 223);
+    margin: auto;
+    width: 75%;
+}
