@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(148, 148, 148);
+}
+
+.title {
+    text-align: center;
+}
+
+.main {
+    background-color: rgb(223, 174, 223);
+    margin: auto;
+    width: 75%;
+    text-align: center;
+}
+
+.form-group {
+    margin: 0 auto 1.25rem auto;
+    padding: 0.25rem;
+}
+
+.optional {
+    margin-left: 0.25rem;
+    font-size: 0.9rem;
+    color: #e4e4e4;
+}
