@@ -2,10 +2,15 @@ body {
     background-color: rgb(148, 148, 148);
 }
 
+.title {
+    text-align: center;
+}
+
 .main {
     background-color: rgb(223, 174, 223);
     margin: auto;
     width: 75%;
+    text-align: center;
 }
 
 .form-group {
