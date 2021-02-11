@@ -18,8 +18,12 @@ body {
     padding: 0.25rem;
 }
 
-.optional {
+.parentheses {
     margin-left: 0.25rem;
     font-size: 0.9rem;
     color: #e4e4e4;
+}
+
+label {
+    display: flex;
 }
