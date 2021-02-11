@@ -9,8 +9,8 @@ body {
 .main {
     background-color: rgb(223, 174, 223);
     margin: auto;
-    width: 75%;
-    text-align: center;
+    width: 50%;
+    text-align: left;
 }
 
 .form-group {
@@ -22,6 +22,18 @@ body {
     margin-left: 0.25rem;
     font-size: 0.9rem;
     color: #e4e4e4;
+}
+
+input[type=text] {
+    width: 98%;
+}
+
+input[type=email] {
+    width: 98%;
+}
+
+input[type=number] {
+    width: 98%;
 }
 
 label {
